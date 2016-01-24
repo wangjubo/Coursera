@@ -1,1 +1,7 @@
-# To be completed for Matlab
+# Unrelated files
+*.pdf
+*.zip
+
+# Unrelated folders
+Machine Learning/Certificate/
+Machine Learning/Machine_learning_complete_notes
